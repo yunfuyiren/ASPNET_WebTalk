@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Talk_Web">
+</Property><Property Name="解决方案文件" Value="G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web.sln">
+</Property><Property Name="Date" Value="2014年7月31日">
+</Property><Property Name="Time" Value="23:11">
+</Property></Properties><Event ErrorLevel="0" Project="Talk_Web" Source="Talk_Web\Talk_Web.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Talk_Web" Source="Talk_Web\Talk_Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Talk_Web.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Talk_Web.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Talk_Web" Source="Talk_Web\Talk_Web.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
