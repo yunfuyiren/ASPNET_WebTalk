@@ -1,0 +1,13 @@
+H:\Talk_Web\Talk_Web\obj\Debug\ResolveAssemblyReference.cache
+H:\Talk_Web\Talk_Web\bin\Talk_Web.dll
+H:\Talk_Web\Talk_Web\bin\Talk_Web.pdb
+H:\Talk_Web\Talk_Web\bin\Ext.Net.dll
+H:\Talk_Web\Talk_Web\bin\Ext.Net.Utilities.dll
+H:\Talk_Web\Talk_Web\bin\Newtonsoft.Json.dll
+H:\Talk_Web\Talk_Web\obj\Debug\Talk_Web.dll
+H:\Talk_Web\Talk_Web\obj\Debug\Talk_Web.pdb
+G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web\bin\Talk_Web.dll
+G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web\bin\Talk_Web.pdb
+G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web\obj\Debug\ResolveAssemblyReference.cache
+G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web\obj\Debug\Talk_Web.dll
+G:\个人做过的项目\软件工程\即时聊天系统\源代码\Talk_Web\obj\Debug\Talk_Web.pdb
